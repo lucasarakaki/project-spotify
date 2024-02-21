@@ -74,6 +74,23 @@ body{
 #recursos h2{
     color: #fff;
 }
+/*roda pe*/
+#rodape{
+    background-color: #000;
+    padding: 50px 0 20px 0;
+    position: relative;
+}
+footer#rodape h4{
+    color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+footer#rodape .nav a.nav-link{
+    color: #fff;
+}
+footer#rodape .social a{
+    color: #fff;
+}
 .rotacionar{
     -webkit-transform: rotate(30deg);
     -ms-transform: rotate(30deg);
